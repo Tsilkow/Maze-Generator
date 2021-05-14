@@ -14,7 +14,7 @@ corridorColor = (0, 0, 0)
 if len(sys.argv) > 1: dimensions[0] = int(sys.argv[1])
 if len(sys.argv) > 2: dimensions[1] = int(sys.argv[2])
 if len(sys.argv) > 3: tileSize = float(sys.argv[3])
-if len(sys.argv) > 4: start[0] = int(sys.argv[4])
+if len(sys.argv) > 4: tileVerticies = int(sys.argv[4])
 if len(sys.argv) > 5: start[0] = int(sys.argv[5])
 if len(sys.argv) > 6: start[1] = int(sys.argv[6])
 
