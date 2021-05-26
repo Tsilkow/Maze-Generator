@@ -1,6 +1,6 @@
 # Maze Generator
 
-A quick script that will generate a gif of labirynth filling up a set space.
+A quick script that will generate a gif of labyrinth filling up a set space.
 
 Arguments:
 1. width
